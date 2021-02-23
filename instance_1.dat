@@ -1,0 +1,6 @@
+number_of_requests 2
+
+slice_request 1 id 1 total_amount_of_UE 4675 min_bandwidth 6.8 VNF_types_to_install  "instance_1_NFSs_to_install.dat" VNFs_to_connect  "instance_1_NFSs_to_connect.dat" VNF_sharing  "instance_1_NFS_sharing_slice1.dat" commodities  "instance_1_commodities_slice1.dat" maxLatencyDataLayer 3.8 nodeSharing  "instance_1_node_sharing.dat"
+
+slice_request 2 id 2 total_amount_of_UE 4770 min_bandwidth 7.9 VNF_types_to_install  "instance_1_NFSs_to_install.dat" VNFs_to_connect  "instance_1_NFSs_to_connect.dat" VNF_sharing  "instance_1_NFS_sharing_slice2.dat" commodities  "instance_1_commodities_slice2.dat" maxLatencyDataLayer 3.6 nodeSharing  "instance_1_node_sharing.dat"
+
